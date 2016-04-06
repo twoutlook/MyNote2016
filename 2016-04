@@ -2,6 +2,8 @@
 今天一早順利安裝了Yii2，
 
 composer 是一個梗，gii 是另一個梗。
+composer 取代 php composer.phar 
+gii 是要在單獨application 裡安裝,會入到vendor/yiisoft 裡
 在 hicloud 的環境要比 aliyun 方便許多。
 在目前辦公室網路很難避免putty斷開，密碼是可以貼上去的，先以root看得到的先演練。
 
