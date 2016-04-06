@@ -1,0 +1,10 @@
+2016-4-6
+今天一早順利安裝了Yii2，
+
+composer 是一個梗，gii 是另一個梗。
+在 hicloud 的環境要比 aliyun 方便許多。
+在目前辦公室網路很難避免putty斷開，密碼是可以貼上去的，先以root看得到的先演練。
+
+composer 要使用 github 一個 token
+
+今天練習了 basic,包括了hello,entry form ,db, CRUD 
